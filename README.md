@@ -1,5 +1,7 @@
 # The Surprising Positive Knowledge Transfer in Continual 3D Object Shape Reconstruction
 
+## Note: This forked repo is outdated, please see the original repo [here](https://github.com/rehg-lab/CLRec).
+
 In this work we investigate continual learning of reconstruction tasks which surprisingly do not suffer from catastrophic forgetting and exhibit positive forward knowledge transfer. In addition, we provide a novel analysis of knowledge transfer ability in CL. We further show the potential of using the feature representation learned in 3D shape reconstruction to serve as a proxy task for classification. [Link](https://arxiv.org/abs/2101.07295) to our paper and [link](https://rehg-lab.github.io/publication-pages/CLRec/) to our project webpage.
 
 This repository consists of the code for reproducing CL of 3D shape reconstruction, proxy task and autoencoder results.
@@ -21,5 +23,4 @@ Follow instructions in [Autoencoder README](https://github.com/ngailapdi/CLRec/b
     primaryClass={cs.LG}
 }
 ```
-
 
